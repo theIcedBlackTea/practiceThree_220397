@@ -1,0 +1,12 @@
+{
+  "name": "practicethree_220397",
+  "version": "1.0.0",
+  "description": "Repaso de Control de Sesiones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniel de Jesús Bravo Godínez - 220397",
+  "license": "ISC"
+}
